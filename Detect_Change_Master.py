@@ -31,7 +31,7 @@ Base_File_Path= r'C:\Users\jkirchberg\Desktop\Detect_Change_3.0' # This is an ex
 #XMLRename = Export To XML method requires the renaming of a feature class.  Best practice is to rename the feature class to the same name as it is found in the orginal database.  
 
 
-
+# Enter your own data information
 # Work
 Dict= {1:("RoadCenterline",r'\\jc-gis\Files\GisData\db_connections\LocalGovernment_SDE\DEFAULTversion\DEFAULT LocalGov.sde\LocalGovernment.JC.ReferenceData\LocalGovernment.JC.RoadCenterline',"CENTERLINEID","CM",None),
 2:("Sign",r'\\jc-gis\Files\GisData\db_connections\LocalGovernment_SDE\DEFAULTversion\DEFAULT LocalGov.sde\LocalGovernment.JC.FacilitiesStreets\LocalGovernment.JC.Sign',"FACILITYID","CM","Sign"),
